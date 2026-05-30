@@ -13,13 +13,11 @@ R code and example inputs for the GBD 2021 equivalent-age analysis.
 
 ## Requirements
 
-The analysis was prepared for R 4.3.1 or later on a standard desktop computer. The demo workflow was tested on macOS with R 4.5.2. The scripts use:
+The analysis was prepared for R 4.3.1. The scripts use:
 
 `dplyr`, `readr`, `tidyr`, `stringr`, `tibble`, `data.table`, and `reshape2`.
 
-`scripts/05_aapc.R` also requires the NCI Joinpoint command-line executable (`jpCommand.exe`), available for Windows. Set `JOINPOINT_CMD` to the full path of `jpCommand.exe` before running the full analysis.
-
-The demo run finishes in a few minutes on a normal laptop. Full GBD analyses and projection runs are longer and depend on the size of the downloaded GBD input tables.
+`scripts/05_aapc.R` also requires the NCI Joinpoint command-line executable (`jpCommand.exe`). Set `JOINPOINT_CMD` to the full path of `jpCommand.exe` before running the full analysis.
 
 ## Installation
 
