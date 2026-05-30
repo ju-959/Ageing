@@ -1,0 +1,25 @@
+"measure","location","sex","age","year","cause","metric","val","lower","upper"
+"Prevalence","Global","Both","25 to 29",2021,"Hypertensive heart disease","Rate",12.9,12.642,13.158
+"Prevalence","Global","Both","30 to 34",2021,"Hypertensive heart disease","Rate",16.9,16.562,17.238
+"Prevalence","Global","Both","35 to 39",2021,"Hypertensive heart disease","Rate",23.4,22.932,23.868
+"Prevalence","Global","Both","40 to 44",2021,"Hypertensive heart disease","Rate",32.4,31.752,33.048
+"Prevalence","Global","Both","45 to 49",2021,"Hypertensive heart disease","Rate",43.9,43.022,44.778
+"Prevalence","Global","Both","50 to 54",2021,"Hypertensive heart disease","Rate",57.9,56.742,59.058
+"Prevalence","Global","Both","55 to 59",2021,"Hypertensive heart disease","Rate",74.4,72.912,75.888
+"Prevalence","Global","Both","60 to 64",2021,"Hypertensive heart disease","Rate",93.4,91.532,95.268
+"Prevalence","Global","Both","65 to 69",2021,"Hypertensive heart disease","Rate",114.9,112.602,117.198
+"Prevalence","Global","Both","70 to 74",2021,"Hypertensive heart disease","Rate",138.9,136.122,141.678
+"Prevalence","Global","Both","75 to 79",2021,"Hypertensive heart disease","Rate",165.4,162.092,168.708
+"Prevalence","Global","Both","80 to 84",2021,"Hypertensive heart disease","Rate",194.4,190.512,198.288
+"Prevalence","Global","Both","25 to 29",2021,"Aortic aneurysm","Rate",64.6,63.308,65.892
+"Prevalence","Global","Both","30 to 34",2021,"Aortic aneurysm","Rate",63.6,62.328,64.872
+"Prevalence","Global","Both","35 to 39",2021,"Aortic aneurysm","Rate",62.6,61.348,63.852
+"Prevalence","Global","Both","40 to 44",2021,"Aortic aneurysm","Rate",61.6,60.368,62.832
+"Prevalence","Global","Both","45 to 49",2021,"Aortic aneurysm","Rate",60.6,59.388,61.812
+"Prevalence","Global","Both","50 to 54",2021,"Aortic aneurysm","Rate",59.6,58.408,60.792
+"Prevalence","Global","Both","55 to 59",2021,"Aortic aneurysm","Rate",58.6,57.428,59.772
+"Prevalence","Global","Both","60 to 64",2021,"Aortic aneurysm","Rate",57.6,56.448,58.752
+"Prevalence","Global","Both","65 to 69",2021,"Aortic aneurysm","Rate",56.6,55.468,57.732
+"Prevalence","Global","Both","70 to 74",2021,"Aortic aneurysm","Rate",55.6,54.488,56.712
+"Prevalence","Global","Both","75 to 79",2021,"Aortic aneurysm","Rate",54.6,53.508,55.692
+"Prevalence","Global","Both","80 to 84",2021,"Aortic aneurysm","Rate",53.6,52.528,54.672
