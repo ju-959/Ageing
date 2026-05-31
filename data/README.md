@@ -5,7 +5,7 @@
 The analysis uses publicly available Global Burden of Disease Study 2021 aggregate estimates obtained through GHDx/GBD Results Tool. Full raw downloads are not stored in this repository.
 
 - GBD 2021 data resources: https://ghdx.healthdata.org/gbd-2021/data-input-sources
-- GBD Results Tool: https://vizhub.healthdata.org/gbd-results/
+- GBD Results Tool: https://ghdx.healthdata.org/gbd-2021
 - Projected population metadata: WHO Global Health Observatory total-population indicator, with population data from the United Nations Population Division World Population Prospects: https://www.who.int/data/gho/indicator-metadata-registry/imr-details/total-population-%28thousands%29
 
 ## GBD Download Scope
